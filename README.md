@@ -13,7 +13,6 @@
   <img align="center" alt="Lavinia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lavinia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lavinia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lavinia-C#" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27153%2Fc-sharp-c&psig=AOvVaw2jesGSA25jtGZRAdUkqXb4&ust=1708208398407000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjOlKnysIQDFQAAAAAdAAAAABAD" >
 </div>
 
 ##
