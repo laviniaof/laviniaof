@@ -1,7 +1,7 @@
 ### Olá! Me chamo Lavínia!
 
 
-- 🎇Atualmente estou estudando JavaScript, TypeScript e Angular
+- 🎇Atualmente estou estudando JavaScript, TypeScript, C#, GraphQL e Angular Framework
 
 <div align="center">
   <a href="https://github.com/laviniaof">
