@@ -1,7 +1,15 @@
-### Olá! Me chamo Lavínia!
+<h1 align="center" > Hey! I'm Lavínia :D </h1>
 
+### About me
 
-- 🎇Atualmente estou estudando JavaScript, TypeScript, C#, GraphQL e Angular Framework
+- **My full name is:** Lavínia Franciscatto
+- **And I'm a:** 20 years old girl
+- **You can also call me:** Lavs
+- **I'm from:** Brazil
+- **And I love to**: Study everything (I'm a very curious person), read policial drama, play video games, watch sitcons and exercise myself!
+- **Here's about my education:**
+     - I'm a fifth-semester Computer Science student at Universidade Paulista (UNIP).
+     - I have completed [Harvard's introductory computer science course CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 <div align="center">
   <a href="https://github.com/laviniaof">
