@@ -3,13 +3,61 @@
 ### About me
 
 - **My full name is:** Lavínia Franciscatto
-- **And I'm a:** 20 years old girl
+- **And I'm a:** 20-year-old girl
 - **You can also call me:** Lavs
 - **I'm from:** Brazil
-- **And I love to**: Study everything (I'm a very curious person), read policial drama, play video games, watch sitcons and exercise myself!
+- **And I love to**: Study everything (I'm a very curious person), read police dramas, play video games, watch sitcoms, and exercise!
 - **Here's about my education:**
      - I'm a fifth-semester Computer Science student at Universidade Paulista (UNIP).
      - I have completed [Harvard's introductory computer science course CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+ 
+### What I have been doing...
+
+- I'm a trainee developer at a technology company called ITIX, located in Brazil. I am part of an international team, and we are responsible for the unified platform of a multinational company.
+
+### Some curiosities about me
+
+- I had my first experience with programming two years ago, and since then, I've been falling in love with this world every day!
+- I've always been a studious person, so I love exploring new programming concepts!
+- One of my biggest professional goals is to become an excellent developer, delivering amazing projects and satisfying my clients!
+- My focus is to become a FullStack developer, but in my spare time, I love creating designs!
+
+### What I use daily
+
+<details>
+  <summary>Programming Languages</summary>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+</details>
+
+<details>
+  <summary>Front-End Tools and Frameworks</summary>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NgRx Badge](https://img.shields.io/badge/NgRx-BA2BD2?logo=ngrx&logoColor=fff&style=for-the-badge) <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+
+</details>
+
+<details>
+  <summary>Technologies and Tools for API Development</summary>
+
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)   Hot Chocolate GraphQL
+
+</details>
+
+<details>
+  <summary>IDEs/Editors</summary>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+
+</details>
+
+<details>
+  <summary>Development Tools and Practices</summary>
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nx Badge](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=fff&style=for-the-badge) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+
+</details>
+
 
 <div align="center">
   <a href="https://github.com/laviniaof">
@@ -18,14 +66,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lavinia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lavinia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lavinia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
 
-##
+## Contact me :D
 
-<div> 
-  <a href="https://www.instagram.com/lavy.oliveif/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-</div>
+<a href="www.linkedin.com/in/lavínia-franciscatto-05b42a254" target="_blank"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn profile" /> 
+</a>
+<a href="mailto:laviniaof@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Professional E-Mail" />
+</a>
