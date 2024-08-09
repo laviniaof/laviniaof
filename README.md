@@ -66,6 +66,13 @@
 
 </details>
 
+<details>
+  <summary> What I'm learning </summary>
+
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+</details>
+
 
 <div align="center">
   <a href="https://github.com/laviniaof">
