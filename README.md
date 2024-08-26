@@ -40,7 +40,7 @@
   <summary>Front-End Tools and Frameworks ⚡️</summary>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NgRx Badge](https://img.shields.io/badge/NgRx-BA2BD2?logo=ngrx&logoColor=fff&style=for-the-badge) <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
-- *MFE (Micro Frontends)*
+- ### MFE (Micro Frontends)
 
 </details>
 
@@ -48,7 +48,8 @@
   <summary>Technologies and Tools for API Development ⭐️ </summary>
 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)   
-- *Hot Chocolate GraphQL*
+- ### Hot Chocolate GraphQL
+- ### Oso Cloud
 
 </details>
 
