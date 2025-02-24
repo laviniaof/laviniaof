@@ -13,14 +13,14 @@
  
 ### What I have been doing... ✨
 
-- I'm a trainee developer at a technology company called ITIX, located in Brazil. I am part of an international team, and we are responsible for the unified platform of a multinational company.
+- At the moment, I am a trainee at PPRO as a TechOps L1, contributing to the team's growth and learning new topics every day, both technical and related to the payments industry. Still, I continue my programming studies, building new projects, and staying curious to always learn new things!
 
 ### Some curiosities about me ✨
 
-- I had my first experience with programming two years ago, and since then, I've been falling in love with this world every day!
+- I had my first experience with programming at mid 2022, and since then, I've been falling in love with this world every day!
 - I've always been a studious person, so I love exploring new programming concepts!
 - One of my biggest professional goals is to become an excellent developer, delivering amazing projects and satisfying my clients!
-- My focus is to become a FullStack developer, but in my spare time, I love creating designs!
+- My focus is to become a Full-Stack developer using technologies like C#, but in my spare time, I love creating designs!
 
 ### Professional Highlight ✨
 
