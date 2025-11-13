@@ -3,7 +3,7 @@
 ### About me ✨
 
 - **My full name is:** Lavínia Franciscatto
-- **And I'm a:** 21-year-old girl
+- **And I'm a:** 22-year-old girl
 - **You can also call me:** Lavs
 - **I'm from:** Brazil
 - **And I love to**: Study everything (I'm a very curious person), read police dramas, play video games, watch sitcoms, and exercise!
